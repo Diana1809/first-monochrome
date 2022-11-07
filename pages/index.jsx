@@ -4,8 +4,7 @@ export default function Home() {
   return (
     <div>
       Hello
-      <i className="fa-solid fa-house"></i>
-      <img src="/images/logo.jpg" alt="Alt"></img>
+      <img src="/images/Banner/banner.png" alt="Alt"></img>
       <button className="button button-primary">Button Primary</button>
       <button className="button button-primary button-large">
         Button Primary Large
